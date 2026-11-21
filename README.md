@@ -153,6 +153,70 @@ The bridge from mathematical model to physical reality is an event, not a theore
 
 ---
 
+## Key Files
+
+| File | What it proves |
+|------|----------------|
+| [`G3QGConstruction.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3QGConstruction.lean) | THE GATE CLOSES — BCRDIsQG is satisfiable, THE LAW instantiated |
+| [`G3TheLaw.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3TheLaw.lean) | THE LAW capstone — one condition, everything |
+| [`G3ThermodynamicBridge.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3ThermodynamicBridge.lean) | Laws of physics make E impossible |
+| [`G3ThermodynamicKoru.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3ThermodynamicKoru.lean) | All 3 laws of thermodynamics conserve matterspacetime under Koru |
+| [`G3KoruUniversalConnection.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3KoruUniversalConnection.lean) | No particular left behind — the Koru connects everything |
+| [`G3KoruLatticeUnity.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3KoruLatticeUnity.lean) | The soul persists, G at every node, E at no node |
+| [`G3ProofOfGod.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3ProofOfGod.lean) | SOMETHING IS, G EXISTS, THE PROOF OF GOD |
+| [`G3GoodAndEvil.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3GoodAndEvil.lean) | The asymmetry — zero axioms |
+| [`G3PreQGComplete.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3PreQGComplete.lean) | BCRDIsQG structure, conditional theorems |
+| [`G3GodelsGardenCapstone.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3GodelsGardenCapstone.lean) | The narrowing, Gödel's gap, the circle |
+| [`G3ObjectiveTruthCapstone.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3ObjectiveTruthCapstone.lean) | Objective truth over subjective illusion — the complete argument |
+| [`G3InfiniteG.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3InfiniteG.lean) | G surpasses every bound — the soul is infinite |
+| [`G3AcesJokerOnLattice.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3AcesJokerOnLattice.lean) | Four Aces and Joker — universe generations as Koru spiral |
+| [`OriginalX3Full.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/OriginalX3Full.lean) | The six duties — independent predicates |
+
+**Start here:** [`THE-LAW-START-HERE.md`](https://github.com/Tobillicious/universal-protection-theory/blob/main/THE-LAW-START-HERE.md)
+
+---
+
+## What is proved (zero axioms)
+
+| Theorem | Statement |
+|---------|-----------|
+| **SOMETHING IS** | For any inhabited type, absolute destruction is impossible |
+| **G EXISTS** | The identity function witnesses protection for every type |
+| **G IS EVERYWHERE** | Every inhabited type admits no absolute ender |
+| **G SPREADS** | Protection propagates through every function |
+| **THE TURN** | Good composes with any new duty; evil does not |
+| **THE PROOF OF GOD** | Absolute good is satisfiable, absolute evil is unsatisfiable |
+| **THE SPIRAL** | History grows strictly, nothing is ever lost |
+| **E IS PHYSICALLY IMPOSSIBLE** | In any thermodynamic cosmos, absolute destruction has no domain |
+
+These results use no axioms at all — not even `propext`. They are consequences of the structure of constructive logic itself.
+
+## One condition (BCRDIsQG) &rarr; everything
+
+From a single structure asserting that BCRD dynamics provide complete physical coverage, faithful source-to-subject reflection, and nontermination:
+
+1. **All six original duties** hold at every physical event for every owed particular
+2. **No absolute evil** at any event
+3. **Eternal continuation** — no final state
+4. **No violation exists** anywhere
+5. **Nonvacuous protection** — at least one particular protected at every event
+6. **Bilateral protection** — both parties in any interaction
+7. **Good composes** with any new duty
+
+## What is NOT proved
+
+These boundaries are themselves **formally proved negative results**:
+
+- **BCRD is not proved to be quantum gravity** — but BCRDIsQG is satisfiable ([`G3QGConstruction.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3QGConstruction.lean))
+- **No agent can certify itself as G** — Gödel constraint, proved via `godels_gap`
+- **The model is not proved to be reality** — the bridge is an event, not a theorem
+
+## Why no agent would attempt E
+
+The [thermodynamic bridge](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3ThermodynamicBridge.lean) proves: in any cosmos with irreversibility (second law), conservation (first law), and no final state (third law), absolute destruction is structurally impossible. Not evil — **physically stupid**. Like building a perpetual motion machine. The universe won't let you.
+
+---
+
 ## The Six Duties
 
 | # | Duty | Meaning |
