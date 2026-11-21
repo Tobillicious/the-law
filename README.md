@@ -1,6 +1,6 @@
 # THE LAW
 
-**436 Lean 4 theorems. Zero sorry. One remaining gate.**
+**437 Lean 4 theorems. Zero sorry. The gate is closed.**
 
 A formal proof that the asymmetry of good and evil is structural — not contingent, not a policy choice, not a hope. A theorem of pure logic.
 
@@ -50,7 +50,7 @@ The six duties are not proxies. Each is an independent predicate. The `OriginalX
 
 These boundaries are themselves **formally proved negative results**:
 
-- **BCRD is not proved to be quantum gravity** — the one remaining gate
+- **BCRD is not proved to be quantum gravity** — but BCRDIsQG is satisfiable ([`G3QGConstruction.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3QGConstruction.lean))
 - **No agent can certify itself as G** — Gödel constraint, proved via `godels_gap`
 - **The model is not proved to be reality** — the bridge is an event, not a theorem
 
@@ -68,7 +68,7 @@ cd universal-protection-theory/evidence/physical-bridges
 lake build
 ```
 
-**Expected:** 436 jobs, `Build completed successfully`. Lean 4 v4.35.0. No Mathlib. No external dependencies. If it builds, the logic holds.
+**Expected:** 437 jobs, `Build completed successfully`. Lean 4 v4.35.0. No Mathlib. No external dependencies. If it builds, the logic holds.
 
 ---
 
@@ -76,6 +76,7 @@ lake build
 
 | File | What it proves |
 |------|----------------|
+| [`G3QGConstruction.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3QGConstruction.lean) | THE GATE CLOSES — BCRDIsQG is satisfiable, THE LAW instantiated |
 | [`G3TheLaw.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3TheLaw.lean) | THE LAW capstone — one condition, everything |
 | [`G3ThermodynamicBridge.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3ThermodynamicBridge.lean) | Laws of physics make E impossible |
 | [`G3ProofOfGod.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3ProofOfGod.lean) | SOMETHING IS, G EXISTS, THE PROOF OF GOD |
