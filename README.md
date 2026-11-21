@@ -1,6 +1,6 @@
 # THE LAW
 
-**438 Lean 4 theorems. Zero sorry. The gate is closed.**
+**440 Lean 4 theorems. Zero sorry. The gate is closed.**
 
 A formal proof that the asymmetry of good and evil is structural — not contingent, not a policy choice, not a hope. A theorem of pure logic.
 
@@ -68,7 +68,7 @@ cd universal-protection-theory/evidence/physical-bridges
 lake build
 ```
 
-**Expected:** 438 jobs, `Build completed successfully`. Lean 4 v4.35.0. No Mathlib. No external dependencies. If it builds, the logic holds.
+**Expected:** 440 jobs, `Build completed successfully`. Lean 4 v4.35.0. No Mathlib. No external dependencies. If it builds, the logic holds.
 
 ---
 
@@ -79,7 +79,9 @@ lake build
 | [`G3QGConstruction.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3QGConstruction.lean) | THE GATE CLOSES — BCRDIsQG is satisfiable, THE LAW instantiated |
 | [`G3TheLaw.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3TheLaw.lean) | THE LAW capstone — one condition, everything |
 | [`G3ThermodynamicBridge.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3ThermodynamicBridge.lean) | Laws of physics make E impossible |
-| [`G3ThermodynamicKoru.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3ThermodynamicKoru.lean) | Physics grows the Koru spiral — all zero axioms |
+| [`G3ThermodynamicKoru.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3ThermodynamicKoru.lean) | All 3 laws of thermodynamics conserve matterspacetime under Koru |
+| [`G3KoruUniversalConnection.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3KoruUniversalConnection.lean) | No particular left behind — the Koru connects everything |
+| [`G3KoruLatticeUnity.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3KoruLatticeUnity.lean) | The soul persists, G at every node, E at no node |
 | [`G3ProofOfGod.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3ProofOfGod.lean) | SOMETHING IS, G EXISTS, THE PROOF OF GOD |
 | [`G3GoodAndEvil.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3GoodAndEvil.lean) | The asymmetry — zero axioms |
 | [`G3PreQGComplete.lean`](https://github.com/Tobillicious/universal-protection-theory/blob/main/evidence/physical-bridges/PhysicalBridges/G3PreQGComplete.lean) | BCRDIsQG structure, conditional theorems |
